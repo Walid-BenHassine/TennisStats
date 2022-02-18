@@ -1,0 +1,10 @@
+C:\tennis_stats\TennisStats.API\TennisStats.API\bin\Debug\netstandard2.0\TennisStats.API.deps.json
+C:\tennis_stats\TennisStats.API\TennisStats.API\bin\Debug\netstandard2.0\TennisStats.API.dll
+C:\tennis_stats\TennisStats.API\TennisStats.API\bin\Debug\netstandard2.0\TennisStats.API.pdb
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.csproj.AssemblyReference.cache
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.AssemblyInfoInputs.cache
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.AssemblyInfo.cs
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.csproj.CoreCompileInputs.cache
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.dll
+C:\tennis_stats\TennisStats.API\TennisStats.API\obj\Debug\netstandard2.0\TennisStats.API.pdb

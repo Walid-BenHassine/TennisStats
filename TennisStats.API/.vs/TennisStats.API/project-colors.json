@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbf5ab2d-0c85-4c41-8f32-42ce3def5e0f": {
+      "ProjectGuid": "bbf5ab2d-0c85-4c41-8f32-42ce3def5e0f",
+      "DisplayName": "TennisStats.API",
+      "ColorIndex": 0
+    },
+    "d0f705d2-6100-45b6-b2db-96f03386e0f7": {
+      "ProjectGuid": "d0f705d2-6100-45b6-b2db-96f03386e0f7",
+      "DisplayName": "TennisStatsSPA",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

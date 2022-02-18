@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TennisStats.API
+build_property.ProjectDir = C:\tennis_stats\TennisStats.API\TennisStats.API\
